@@ -59,3 +59,19 @@ typings/
 
 # next.js build output
 .next
+
+
+.idea
+.idea/.name
+.idea/copyright/
+.idea/encodings.xml
+.idea/koa2_react_redux_skeleton.iml
+
+stats.js
+vr.stats.js
+public/js/build/
+/build/
+/public/build/
+/criticalCss/
+/assets/
+/package-lock.json
